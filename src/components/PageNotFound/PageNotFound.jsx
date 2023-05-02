@@ -4,7 +4,7 @@ import "./PageNotFound.css";
 
 const PageNotFound = () => {
   return (
-    <div className="container">
+    <div className="error-container">
       <img src={image} alt="" />
     </div>
   );
